@@ -1,4 +1,3 @@
----
 ## bKash Sandbox Test Credentials
 
 For all sandbox wallets listed below, use the following default credentials:
@@ -27,5 +26,3 @@ Use these numbers to test specific **error handling** scenarios.
 | --- | --- |
 | `01823074817` | **Insufficient Balance** |
 | `01823074818` | **Debit Block** |
-
----
